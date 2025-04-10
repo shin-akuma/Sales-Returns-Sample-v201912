@@ -18,7 +18,7 @@ table Product
 
 		annotation SummarizationSetBy = Automatic
 
-	column Category
+	column CategoryName
 		dataType: string
 		lineageTag: 88c28dea-e366-45ae-a8de-e8b5b4807f11
 		summarizeBy: none
